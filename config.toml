@@ -9,3 +9,4 @@ enableRobotsTXT = true
 [params]
 loginId = "1758823"
 subfolder = ""
+reservedContent = "test.md,protected/"
